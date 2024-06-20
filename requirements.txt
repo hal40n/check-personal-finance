@@ -1,6 +1,4 @@
 Flask
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
+Flask-SQLAlchemy
+mysqlclient
 python-dotenv

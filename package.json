@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
